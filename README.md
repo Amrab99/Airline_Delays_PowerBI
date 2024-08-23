@@ -1,7 +1,7 @@
 Airline Delay Analysis Dashboard
 This Power BI dashboard provides a comprehensive analysis of airline delays. The dataset contains detailed information about flight delays in the United States, covering various aspects such as the number of flights, delay causes, and cancellation statistics.
 
-![Sales Dashboard](images/adwork.jpg)
+![Sales Dashboard](images/AirlineDelays.jpg)
 
 Key Features:
 Total Flights Overview:
